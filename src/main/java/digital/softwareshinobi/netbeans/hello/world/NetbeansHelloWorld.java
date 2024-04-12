@@ -1,3 +1,13 @@
+/*
+ * software shinobi (https://softwareshinobi.digital)
+ *
+ * do whatever the hell you want with this code.
+ *
+ * you can modify it, distribute it, or use it for any purpose. 
+ *
+ * idgaf.
+ *
+ */
 package digital.softwareshinobi.netbeans.hello.world;
 
 /**
